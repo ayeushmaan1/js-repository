@@ -7,3 +7,6 @@ console.log(n);
  const url="https:ayushmaan.com/ayushmaan%20choudahry"
  console.log(url.replace('%20','-'))
  console.log(gamename.split('-'))
+
+
+ // 
