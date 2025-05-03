@@ -7,7 +7,9 @@ console.log(newDate.getMonth());
 console.log(newDate.getDay());
 newDate.toLocaleString('default',{
     weekday:"long", 
+    month:"narrow",
+    
 
 })
-
+console.log(newDate)
 
